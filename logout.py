@@ -1,0 +1,1 @@
+This is Logout file example for git (Local rempo)
